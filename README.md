@@ -42,7 +42,7 @@ Hoje estudo desenvolvimento web com **Python** e os frameworks **Django/DRF**.
 <br>
 ## :boy: Contatos
 <div>     
- <a href="https://t.me/C_Hsa/" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
+ <a href="https://t.me/hscosta/" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
  <a href = "mailto:hevertonscosta@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
  <a href="https://www.linkedin.com/in/hevertoncosta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
