@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Heverton Costa 
 
-Trabalho com e amo tecnologia, à mais de 2 décadas, desde os 15 anos.🤓
+Trabalho COM e AMO tecnologia, à mais de 2 décadas, desde os 15 anos.🤓
 
 Tenho boa experiência como desenvolvedor de soluções web, conhecimentos sólidos em programação de sistemas e manuseio de bancos de dados. Venho com uma bagagem técnica na área da computação e infraestrutura e enveredo agora pela área do desenvolvimento back-end com Python e com o framework Django/Django Rest Framework. Sou também estudante, atualmente, da graduação em Tecnologia em Análise e Desenvolvimento de Sistemas, com vistas à concluir brevemente. Mantenho, contínua e constantemente, minhas atualizações de expertises para sempre poder dispor dos melhores serviços que eu possa oferecer. No mais, exponho aqui minhas skills e fico à disposição para contatos de trabalho, nos canais disponibilizados neste website e também em minhas redes sociais. Aguardo seu contato!
 
