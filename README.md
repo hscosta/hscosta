@@ -17,7 +17,7 @@ Hoje estudo desenvolvimento web com **Python** e os frameworks **Django/DRF**.
 ## 🚀 Skills
 
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow"/>
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img alt="Linux" src="https://img.shields.io/badge/Linux-dedede?style=for-the-badge&logo=Linux&logoColor=black"/>
